@@ -1,0 +1,5 @@
+{
+  "name": "MindGrid Sudoku Pro",
+  "description": "A professional-grade Sudoku application featuring AI-powered hints, difficulty progression, comprehensive stats, and an achievement system.",
+  "requestFramePermissions": []
+}
